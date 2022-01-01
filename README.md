@@ -2,6 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Pedro%20Paulino-informational)](https://www.linkedin.com/in/pedropaulino89/)
 
+[![wakatime](https://wakatime.com/badge/user/0865c052-a67d-42a9-b358-99ad640afd3a.svg)](https://wakatime.com/@0865c052-a67d-42a9-b358-99ad640afd3a)
+
 
 
 <!--
